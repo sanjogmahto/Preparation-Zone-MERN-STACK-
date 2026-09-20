@@ -1,0 +1,6 @@
+{
+  "name": "PrepZone - Online Mock Test & Practice Platform",
+  "description": "Full-stack online mock test & student practice platform featuring subject-wise mock tests, timed exams, question palette, instant results, progress analytics, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
